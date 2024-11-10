@@ -77,5 +77,5 @@ python -m torch.distributed.launch --nproc_per_node=8 train.py --config configs/
 Once you have the config file and trained model, run following command to evaluate it on test set:
 
 ```bash
-python test.py --config configs/road_2D.yaml --cuda_visible_device 3 --checkpoint ./trained_weights/last_checkpoint.pt
+python valid_smd_guyot_nx.py
 ```
