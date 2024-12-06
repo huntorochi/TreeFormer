@@ -1,6 +1,7 @@
-{: align="center"}
-# TreeFormer: Single-view Plant Skeleton Estimation via Tree-constrained Graph Generation 
-## WACV2025 [![arXiv](https://img.shields.io/badge/arXiv-2411.16132-b31b1b.svg)](https://arxiv.org/abs/2411.16132) <br>Xinpeng Liu, Hiroaki Santo, Yosuke Toda, Fumio Okura <br> (Osaka University)  
+# TreeFormer: Single-view Plant Skeleton Estimation via Tree-constrained Graph Generation (WACV2025)
+
+## Xinpeng Liu<sup>1</sup>, Hiroaki Santo<sup>1</sup>, Yosuke Toda<sup>2,3</sup>, Fumio Okura<sup>1</sup><br> (<sup>1</sup> Osaka University, <sup>2</sup> Phytometrics, <sup>3</sup> Nagoya University)
+[![arXiv](https://img.shields.io/badge/arXiv-2411.16132-b31b1b.svg)](https://arxiv.org/abs/2411.16132) 
 
 ## Requirements
 * CUDA>=9.2
