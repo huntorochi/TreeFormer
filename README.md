@@ -1,5 +1,5 @@
 # TreeFormer: Single-view Plant Skeleton Estimation via Tree-constrained Graph Generation (WACV2025)
-## Xinpeng Liu, Hiroaki Santo, Yosuke Toda, Fumio Okura
+## Aurhors: Xinpeng Liu, Hiroaki Santo, Yosuke Toda, Fumio Okura (Osaka University)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2411.16132-b31b1b.svg)](https://arxiv.org/abs/2411.16132)
 
