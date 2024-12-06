@@ -79,3 +79,14 @@ Once you have the config file and trained model, run following command to evalua
 ```bash
 python valid_smd_guyot_nx.py
 ```
+
+## 4. Citation
+
+```
+@inproceedings{liu2025treeformer,
+  title={TreeFormer: Single-view Plant Skeleton Estimation via Tree-constrained Graph Generation},
+  author={Liu, Xinpeng and Santo, Hiroaki and Toda, Yosuke and Okura, Fumio},
+  booktitle={Proceedings of IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  year={2025}
+}
+```
